@@ -35,5 +35,7 @@ And the above code would look like this
     
 Finally activate the plugin My Color and enjoy .
 
+Demo : http://layerswp.matbaoweb.com/
+
 
   
