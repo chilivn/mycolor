@@ -1,3 +1,1 @@
-# mycolor
-The plugin will help you change color your themes 
-By Mat Bao Company
+# Huong dan Git co ban
