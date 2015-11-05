@@ -1,1 +1,1 @@
-# Huong dan Git co ban
+# The Plugin will help for you change color your themes
